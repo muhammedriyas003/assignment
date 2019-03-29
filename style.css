@@ -1,0 +1,95 @@
+#fr
+{
+    background-color: black;
+    color: aliceblue;
+    padding-top: 5px;
+text-align: left;
+font-size: 12px;
+font-family:'Times New Roman';
+
+}
+a{
+
+    color: aliceblue;
+}
+
+#ict
+{
+
+    font-style:bold;
+    font-size: 14px;
+}
+
+#tt
+{
+
+    font-size: 20px;
+    font-style:bold;
+    color:black;
+}
+
+.responsive
+{
+    width: 100%;
+    height: auto;
+}
+
+
+
+
+#search
+{
+
+    text-align: right;
+}
+
+#car
+{
+
+    font-family: Impact;
+    font-style: italic;
+    text-align: center;
+    height: 220px;
+
+}
+#about_row
+{
+
+    margin-left: 1px;
+    margin-right: 1px;
+    color: black;
+    font-family: 'Times New Roman';
+
+}
+
+#car2
+{
+
+    font-family: 'Times New Roman';
+    text-align: left;
+    height: 170px;
+
+}
+
+#lar
+{
+
+    color: white;
+    background-color:#232C2B;
+    font-family: 'Times New Roman';
+    font-size: 13px
+}
+#abtbd
+{
+
+background-image: url("l.jpg");  
+}
+#tb1
+{
+
+    margin-right: 2px;
+    font-size: 10px;
+    text-align: center;
+   
+}
+
