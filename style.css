@@ -1,11 +1,27 @@
 #fr
 {
     background-color: black;
-    color: aliceblue;
+    color: white;
     padding-top: 5px;
 text-align: left;
 font-size: 12px;
 font-family:'Times New Roman';
+
+
+}
+
+#jum
+{
+
+    background-image: url("k.png");
+    font-family: 'Times New Roman';
+    font-style: bold;
+    color:white;
+    text-align: center;
+    font-size: 30px;
+    margin-left: -15px;
+    margin-right: -15px;
+   
 
 }
 a{
@@ -23,9 +39,23 @@ a{
 #tt
 {
 
-    font-size: 20px;
+    font-size: 25px;
     font-style:bold;
     color:black;
+    font-family: 'Times New Roman';
+}
+#nv
+{
+color: white;
+font-family: 'Times New Roman';
+}
+
+#cor
+{
+    font-size: 25px;
+    font-family: 'Times New Roman';
+    font-style: bold;
+    text-align: center;
 }
 
 .responsive
@@ -43,15 +73,6 @@ a{
     text-align: right;
 }
 
-#car
-{
-
-    font-family: Impact;
-    font-style: italic;
-    text-align: center;
-    height: 220px;
-
-}
 #about_row
 {
 
@@ -77,13 +98,10 @@ a{
     color: white;
     background-color:#232C2B;
     font-family: 'Times New Roman';
-    font-size: 13px
+    font-size: 13px;
+   
 }
-#abtbd
-{
 
-background-image: url("l.jpg");  
-}
 #tb1
 {
 
@@ -93,3 +111,44 @@ background-image: url("l.jpg");
    
 }
 
+#regt
+{
+
+    margin-left: 2px;
+    font-family: 'Times New Roman';
+   
+    
+}
+#t
+{
+    font-family: 'Gill Sans';
+    font-size: 25px;
+    text-align: center;
+    font-style: bold;
+}
+
+#tb4
+{
+
+    text-align: center;
+    
+}
+#bb{
+text-align: center;
+align-content: right;
+}
+
+body
+{
+background-image: url("bbbb.png");
+
+
+}
+
+#tttt
+{
+    font-family: 'Gill Sans';
+    font-size: 15px;
+    text-align: center;
+    font-style: bold;
+}
