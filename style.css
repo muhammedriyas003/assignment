@@ -48,6 +48,7 @@ a{
 {
 color: white;
 font-family: 'Times New Roman';
+
 }
 
 #cor
@@ -138,10 +139,21 @@ text-align: center;
 align-content: right;
 }
 
-body
+#abtbd
 {
-background-image: url("bbbb.png");
 
+    background-image: url("50.jpg");
+
+}
+
+#servbd
+{
+    background-image: url("51.jpg");
+}
+
+#indxbd
+{
+    background-image: url("55.jpg");
 
 }
 
@@ -151,4 +163,16 @@ background-image: url("bbbb.png");
     font-size: 15px;
     text-align: center;
     font-style: bold;
+}
+#cardr
+{
+font-style: oblique;
+font-family: Impact;
+font-size: 6cm;
+}
+#foc
+{
+    font-style: bold;
+    font-family: 'Times New Roman';
+   
 }
